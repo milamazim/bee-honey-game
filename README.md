@@ -12,3 +12,5 @@ pip install pygame
 To start the game please run 'Main.py' file.
 
 Hope you have fun! :)
+
+PS: Udemy course link - https://www.udemy.com/course/python-pygame-e-gdscript-para-jogos
